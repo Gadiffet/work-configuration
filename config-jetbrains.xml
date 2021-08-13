@@ -1,7 +1,4 @@
 <code_scheme name="Default" version="173">
-  <HCL-Terraform>
-    <option name="PROPERTY_ALIGNMENT" value="2" />
-  </HCL-Terraform>
   <SqlCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="true" />
     <option name="KEYWORD_CASE" value="2" />
